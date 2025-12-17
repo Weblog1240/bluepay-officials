@@ -38,7 +38,7 @@ const ChatBot = () => {
     const message = userMessage.toLowerCase();
     
     if (message.includes('bpc') || message.includes('token')) {
-      return 'BPC tokens are BluePay\'s reward system. Purchase BPC tokens to increase your daily withdrawal limit up to ₦200,000. You can buy BPC codes for ₦7,800 through the app.';
+      return 'BPC tokens are BluePay\'s reward system. Purchase BPC tokens to increase your daily withdrawal limit up to ₦200,000. You can buy BPC codes for ₦6,200 through the app.';
     }
     
     if (message.includes('withdraw') || message.includes('limit')) {

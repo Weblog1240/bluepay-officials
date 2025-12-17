@@ -34,7 +34,7 @@ const WelcomeOnboarding = () => {
     {
       emoji: "🛍",
       title: "Get Your BPC Code",
-      description: "To withdraw funds, you'll need to purchase a BPC Code for ₦7,800. This is a one-time purchase that unlocks all features of the app.",
+      description: "To withdraw funds, you'll need to purchase a BPC Code for ₦6,200. This is a one-time purchase that unlocks all features of the app.",
       buttonText: "Next →"
     },
     {
