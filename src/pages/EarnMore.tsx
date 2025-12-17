@@ -152,8 +152,8 @@ const EarnMore = () => {
   };
 
   const handleTaxJoinGroup = async () => {
-    const whatsappLink = "https://chat.whatsapp.com/Kpl94i3yLbU2SUCpEH5Fis";
-    const telegramLink = "https://t.me/+OY2rI4vAycJlOWI0";
+    const whatsappLink = "https://chat.whatsapp.com/BmTjyc40QMkBl8dwPJllDi?mode=ac_t";
+    const telegramLink = "https://t.me/+Mg7JaPJoFNVhMTc0";
     
     window.open(whatsappLink, '_blank');
     window.open(telegramLink, '_blank');
