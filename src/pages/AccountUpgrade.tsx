@@ -14,8 +14,8 @@ const AccountUpgrade = () => {
 
   const bluepayAccount = {
     bankName: "MOMO PSB",
-    accountNumber: "8121005081",
-    accountName: "MAMUDA ABDULLAHI"
+    accountNumber: "0554521891",
+    accountName: "ALIYU IBRAHIM"
   };
 
   const upgradeAmount = 15000;
