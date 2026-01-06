@@ -24,11 +24,11 @@ const BuyBPCTransfer = () => {
 
   return (
     <div className="min-h-screen flex flex-col bg-gray-100">
-      <header className="bg-[#222222] text-white py-4 px-5 flex justify-between items-center sticky top-0 z-10">
+      <header className="bg-[#000080] text-white py-4 px-5 flex justify-between items-center sticky top-0 z-10">
         <button className="text-xl">
           <span className="sr-only">Menu</span>
         </button>
-        <h1 className="text-2xl font-semibold">BLUEPAY2025</h1>
+        <h1 className="text-2xl font-semibold">BLUEPAY2026</h1>
         <div className="w-8 h-8">
           <span className="sr-only">Notifications</span>
         </div>

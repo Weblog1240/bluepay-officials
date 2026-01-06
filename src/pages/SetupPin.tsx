@@ -140,7 +140,7 @@ const SetupPin = () => {
   };
 
   return (
-    <div className="min-h-screen flex flex-col items-center bg-bluepay-blue text-white">
+    <div className="min-h-screen flex flex-col items-center bg-[#000080] text-white">
       <header className="w-full p-4 flex justify-between items-center">
         <button onClick={() => navigate(window.location.pathname === '/pin' ? '/' : '/register')} className="flex items-center text-white">
           <ArrowLeft className="h-5 w-5" />

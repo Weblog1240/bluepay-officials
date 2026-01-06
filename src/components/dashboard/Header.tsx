@@ -11,7 +11,7 @@ const Header = () => {
   };
 
   return (
-    <header className="bg-bluepay-blue text-white py-4 px-5 flex justify-between items-center sticky top-0 z-10">
+    <header className="bg-[#000080] text-white py-4 px-5 flex justify-between items-center sticky top-0 z-10">
       <button className="text-xl" onClick={handleMenuClick}>
         <Menu size={24} />
       </button>

@@ -171,7 +171,7 @@ const Withdraw = () => {
 
   return (
     <div className="min-h-screen flex flex-col bg-gray-100">
-      <header className="bg-blue-600 text-white py-3 px-4 text-center">
+      <header className="bg-[#000080] text-white py-3 px-4 text-center">
         <h1 className="text-xl font-bold">Transfer To Bank</h1>
       </header>
 

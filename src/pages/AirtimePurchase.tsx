@@ -73,7 +73,7 @@ const AirtimePurchase = () => {
 
   return (
     <div className="min-h-screen flex flex-col bg-gray-100">
-      <header className="bg-blue-600 text-white py-3 px-4">
+      <header className="bg-[#000080] text-white py-3 px-4">
         <div className="flex items-center">
           <button onClick={() => navigate("/dashboard")} className="mr-2">
             <ArrowLeft size={20} />

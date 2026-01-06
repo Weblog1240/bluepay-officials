@@ -155,7 +155,7 @@ const Profile = () => {
   };
 
   return (
-    <div className="min-h-screen bg-bluepay-blue text-white">
+    <div className="min-h-screen bg-[#000080] text-white">
       <header className="p-3 flex items-center">
         <button onClick={() => navigate(-1)} className="flex items-center text-white">
           <ArrowLeft className="h-6 w-6 mr-2" />

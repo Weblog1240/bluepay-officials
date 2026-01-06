@@ -34,7 +34,7 @@ const BuyBPC = () => {
 
   return (
     <div className="min-h-screen flex flex-col bg-gray-100">
-      <header className="bg-[#1a237e] text-white py-3 px-4">
+      <header className="bg-[#000080] text-white py-3 px-4">
         <h1 className="text-xl font-bold">Buy BPC Code</h1>
       </header>
 

@@ -13,7 +13,7 @@ const Support = () => {
 
   return (
     <div className="min-h-screen flex flex-col bg-gray-50">
-      <header className="bg-[#222222] text-white py-3 px-4 flex justify-between items-center sticky top-0 z-10">
+      <header className="bg-[#000080] text-white py-3 px-4 flex justify-between items-center sticky top-0 z-10">
         <button onClick={() => navigate("/dashboard")} className="text-lg">
           <ArrowLeft size={20} />
         </button>
