@@ -25,11 +25,11 @@ const WithdrawProcessing = () => {
   if (showSuccess) {
     return (
       <div className="min-h-screen flex flex-col bg-white">
-        <header className="bg-[#222222] text-white py-3 px-4 flex justify-between items-center sticky top-0 z-10">
+        <header className="bg-[#000080] text-white py-3 px-4 flex justify-between items-center sticky top-0 z-10">
           <button className="text-lg">
             <span className="sr-only">Menu</span>
           </button>
-          <h1 className="text-xl font-semibold">BLUEPAY2025</h1>
+          <h1 className="text-xl font-semibold">BLUEPAY2026</h1>
           <div className="w-6 h-6">
             <span className="sr-only">Notifications</span>
           </div>
@@ -58,11 +58,11 @@ const WithdrawProcessing = () => {
 
   return (
     <div className="min-h-screen flex flex-col bg-white">
-      <header className="bg-[#222222] text-white py-3 px-4 flex justify-between items-center sticky top-0 z-10">
+      <header className="bg-[#000080] text-white py-3 px-4 flex justify-between items-center sticky top-0 z-10">
         <button className="text-lg">
           <span className="sr-only">Menu</span>
         </button>
-        <h1 className="text-xl font-semibold">BLUEPAY2025</h1>
+        <h1 className="text-xl font-semibold">BLUEPAY2026</h1>
         <div className="w-6 h-6">
           <span className="sr-only">Notifications</span>
         </div>

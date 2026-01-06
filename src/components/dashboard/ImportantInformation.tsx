@@ -19,7 +19,7 @@ const ImportantInformation = () => {
     {
       type: 'image',
       src: '/lovable-uploads/e725b10a-6245-4970-815e-10be41430d6d.png',
-      alt: 'BLUEPAY2025 App Interface',
+      alt: 'BLUEPAY2026 App Interface',
       clickable: false
     },
     {

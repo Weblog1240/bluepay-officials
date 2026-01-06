@@ -138,7 +138,7 @@ const Register = () => {
   };
 
   return (
-    <div className="min-h-screen flex flex-col bg-bluepay-blue text-white">
+    <div className="min-h-screen flex flex-col bg-[#000080] text-white">
       <header className="p-3">
         <button onClick={() => navigate("/")} className="flex items-center text-white">
           <ArrowLeft className="h-5 w-5 mr-2" />
